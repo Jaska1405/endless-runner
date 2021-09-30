@@ -8,12 +8,6 @@ public class CameraMoveController : MonoBehaviour
     public Transform player;
     public float horizontalOffset;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     private void Update()
     {
         Vector3 newPosition = transform.position;

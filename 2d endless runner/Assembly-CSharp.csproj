@@ -62,6 +62,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraMoveController.cs" />
     <Compile Include="Assets\Scripts\CharacterMoveController.cs" />
+    <Compile Include="Assets\Scripts\CharacterSoundController.cs" />
+    <Compile Include="Assets\Scripts\ScoreController.cs" />
+    <Compile Include="Assets\Scripts\ScoreData.cs" />
+    <Compile Include="Assets\Scripts\TerrainGeneratorController.cs" />
+    <Compile Include="Assets\Scripts\TerrainTemplateController.cs" />
+    <Compile Include="Assets\Scripts\UIGameOverController.cs" />
+    <Compile Include="Assets\Scripts\UIScoreController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/user/Documents/2d endless runner/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
